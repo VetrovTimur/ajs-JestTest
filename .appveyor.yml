@@ -1,5 +1,5 @@
 image: Ubuntu1804   # Образ сборки
-stack: node 12  # Окружение
+stack: node 14  # Окружение
 branches:
   only:
     - main  # Ветка git
