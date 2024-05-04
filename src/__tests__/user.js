@@ -1,5 +1,6 @@
-import loadUser from '../loadUser';
+import loadUser from '../loaduser';
 import httpGet from '../http';
+
 jest.mock('../http.js');
 
 beforeEach(() => {
